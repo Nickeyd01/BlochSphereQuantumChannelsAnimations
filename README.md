@@ -11,5 +11,5 @@ git clone https://github.com/nickeyd01/BlochSphereQuantumChannelsAnimations.git
 ```
 ## Extension
 
-An extension to python using Qiskit, will be provided soon.
+An extension to python using Qutip can be found in BlochSphereAnimator.py.
 
